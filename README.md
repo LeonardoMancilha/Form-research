@@ -15,9 +15,9 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-<h2>Portuguese</h2> Pesquisa de formulários feito com HTML e CSS pelo FrontendMentor. <br>
+<h2>Portuguese</h2> Pesquisa de formulário feito com HTML e CSS pelo FrontendMentor. Este foi meu primeiro projeto com desenvolvimento web.<br>
 
-<h2>English</h2> Search of forms done with HTML and CSS by the FrontendMentor form.
+<h2>English</h2> Search of form done with HTML and CSS by the FrontendMentor form. This was my first web development project.
 
 ---
 
